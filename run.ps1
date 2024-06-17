@@ -1,3 +1,5 @@
+param($myTimer)
+
 #-------------------------------------------------------------------------
 #
 # Copyright (c) Microsoft.  All rights reserved.
